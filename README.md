@@ -17,4 +17,4 @@ Incomplete: for now the enemies are all south of the river, but this will change
 Feedback
 ========
 
-Please use either Github's issue tracker, or [Wesnoth's forums](https://forums.wesnoth.org/). *todo* I need to create a forum thread; instead PM me (Octalot) for now.
+Please use either Github's issue tracker, or [the thread for this campaign on Wesnoth's forums](https://r.wesnoth.org/t49617), or PM me (Octalot) on the forums.
