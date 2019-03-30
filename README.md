@@ -12,7 +12,7 @@ Three months after the attack on Carcyn, an army of undead came out of the North
 
 Now the few who remained in Elensefar must hope to defend. A single-scenario campaign.
 
-Incomplete: for now the enemies are all south of the river, but this will change.
+Incomplete: still being balanced.
 
 Feedback
 ========
