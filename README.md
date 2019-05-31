@@ -1,7 +1,7 @@
 Defense of Elensefar
 ====================
 
-This is an add-on campaign for the game [Wesnoth](https://www.wesnoth.org/).
+This is an add-on single-player scenario (or single-scenario campaign) for the game [Wesnoth](https://www.wesnoth.org/).
 
 In-game description (for the add-ons server)
 --------------------------------------------
